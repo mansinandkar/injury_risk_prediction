@@ -18,12 +18,9 @@ Sports injuries can significantly impact athlete performance and career longevit
 
 ## 📦 Dataset
 
-This project uses one or more athlete datasets containing:
-
-- Workload and performance metrics (e.g., distance, speed, game workload)
-- Injury occurrence data
-- Athlete identifiers and match context
-
+- About the dataset - [mHealth Dataset](data/README.md)
+- [mHealth Train Dataset](https://drive.google.com/file/d/1C81zpnyhMJL-tinuEf6rPq6EBVU8pUXD/view?usp=drive_link)
+- [mHealth Test Dataset]([https://www.kaggle.com/datasets/sridharstreaks/insurance-data-for-machine-learning](https://drive.google.com/file/d/1p5SgLKhm1DQrtDZr-2wuvrBGPwy2-BQw/view?usp=drive_link))
 
 ---
 
