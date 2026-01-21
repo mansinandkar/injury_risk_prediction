@@ -79,6 +79,5 @@ This project leverages the following stack:
 
 ---
 
-## 📁 Repository Structure
 
 
