@@ -94,3 +94,11 @@ The following models were implemented and evaluated:
 - Matplotlib
 - Seaborn
 
+---
+
+## 🤝 Contributors
+- Mansi Nandkar
+- Reshma Panibhate
+- Anuj Abhay Joshi
+- Akanksh Rao S R
+
